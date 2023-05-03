@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trycatchblockeg1", "trycatchblockeg1\trycatchblockeg1.csproj", "{3420614C-3501-4A14-81CE-B94188280759}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3420614C-3501-4A14-81CE-B94188280759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3420614C-3501-4A14-81CE-B94188280759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3420614C-3501-4A14-81CE-B94188280759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3420614C-3501-4A14-81CE-B94188280759}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {359E4F39-8790-4AEB-BFA2-2BF3EF5FAB10}
+	EndGlobalSection
+EndGlobal
